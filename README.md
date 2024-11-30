@@ -2,8 +2,7 @@
 
 Convert.io - это веб-приложение на Flask для конвертации видео и аудио файлов с интуитивно понятным интерфейсом.
 
-![Convert.io Screenshot]([static/screenshot.png](https://downloader.disk.yandex.ru/preview/30c0c6abe76c70f3b1b0eec089a8752013268e4b8c76ae7631c887043515c9f2/674b435d/LfDTd0H84v9hUUiO0IRnjS5Yql9MaYfVxeECtJ9289WQIPxYLssiaZ-hOZ5otr-FKJcD25IUQEhYdW6bLFDWgg%3D%3D?uid=0&filename=%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%20convertio.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048))
-
+![Convert.io Screenshot](convertio.png)
 ## Возможности
 
 - Конвертация видео файлов (MKV, AVI, MOV, WMV, FLV, WEBM, MP4)
